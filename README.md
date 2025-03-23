@@ -2,11 +2,11 @@
 
 <img src="https://polymerbranch.com/wp-content/uploads/2023/11/mgtu.webp" weight="10" height="30"/>    I am a master's student at Bauman Moscow State Technical University (BMSTU)
 
-My main areas of interest are:
+My areas of interest, according to which I have posted several projects in this profile, are:
 
-<img src="https://avatars.mds.yandex.net/i?id=2e44f2ce3d3f889b90ce60c76dd99bf8_l-5173525-images-thumbs&n=13" weight="10" height="24"/> Scientific programming
+<img align="center" src="https://avatars.mds.yandex.net/i?id=2e44f2ce3d3f889b90ce60c76dd99bf8_l-5173525-images-thumbs&n=13" weight="10" height="24"/> Scientific programming
 
-<img src="https://avatars.mds.yandex.net/i?id=c019965f86ad26f55e7eb972bc88e728_sr-9051244-images-thumbs&n=13" weight="20" height="30"/> Machine learning
+<img align="center" src="https://banner2.cleanpng.com/20190106/hof/kisspng-artificial-intelligence-system-humanoid-robot-web-fraud-detection-5c31ddd5d97985.3285739615467719258908.jpg" weight="50" height="25"/> Machine learning
 
 I know such languages of programming as:
 
