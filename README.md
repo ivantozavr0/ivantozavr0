@@ -10,9 +10,9 @@ $\diamond$ <tt>My areas of interest, according to which I have posted several pr
 
 $\diamond$ <tt>I use such languages of programming as:</tt>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 $\diamond$ <tt>At the moment, I use the following libraries for machine learning:</tt>
 
@@ -24,9 +24,12 @@ $\diamond$ <tt>At the moment, I use the following libraries for machine learning
 
 $\diamond$ <tt>In this profile you can find:</tt>
 
-<img align="center" src="https://www.svgrepo.com/show/366549/application-pet.svg" weight="10" height="30"/> <tt>My pet projects: 1. Automatic site development with buildings, roads and parks. This is <ins><b>[buiding_development](https://github.com/ivantozavr0/buiding_development)</b></ins> repository. 
-2. Collecting information about air routes in the Black Sea, displaying routes and statistics on the dashboard (storing data in the PostgreSQL database, the project is deployed in Docker). This is <ins><b> [flight_postgre](https://github.com/ivantozavr0/flight_postgre) </b></ins> repository. </tt>
+<img align="center" src="https://www.svgrepo.com/show/366549/application-pet.svg" weight="10" height="30"/> <tt>My <b><i>pet projects</i></b>:</tt> 
 
-<img align="center" src="https://banner2.cleanpng.com/20180627/xwt/kisspng-robot-android-computer-icons-clip-art-5b33c5cf4efc70.8948349015301196313235.jpg" weight="10" height="30"/> <tt> My machine learning projects. This is <ins><b>[house_prices](https://github.com/ivantozavr0/house_prices), [decision_tree](https://github.com/ivantozavr0/decision_tree) , [log_reg_random_forest](https://github.com/ivantozavr0/log_reg_random_forest)</b></ins> repositories. </tt>
+<tt>1. Automatic site development with buildings, roads and parks. This is <ins><b>[buiding_development](https://github.com/ivantozavr0/buiding_development)</b></ins> repository.</tt>
 
-<img align="center" src="https://clipart-library.com/images_k/math-transparent/math-transparent-22.jpg" weight="10" height="30"/> <tt> My scientific calcuation project. This is <ins><b>[heat_equation](https://github.com/ivantozavr0/heat_equation) </b></ins> repository. </tt>
+<tt>2. Collecting information about air routes in the Black Sea, displaying routes and statistics on the dashboard (storing data in the PostgreSQL database, the project is deployed in Docker). This is <ins><b> [flight_postgre](https://github.com/ivantozavr0/flight_postgre) </b></ins> repository. </tt>
+
+<img align="center" src="https://banner2.cleanpng.com/20180627/xwt/kisspng-robot-android-computer-icons-clip-art-5b33c5cf4efc70.8948349015301196313235.jpg" weight="10" height="30"/> <tt> My <b><i>machine learning projects</b></i>. This is <ins><b>[house_prices](https://github.com/ivantozavr0/house_prices), [decision_tree](https://github.com/ivantozavr0/decision_tree) , [log_reg_random_forest](https://github.com/ivantozavr0/log_reg_random_forest)</b></ins> repositories. </tt>
+
+<img align="center" src="https://clipart-library.com/images_k/math-transparent/math-transparent-22.jpg" weight="10" height="30"/> <tt> My <b><i>scientific calcuation project</b></i>. This is <ins><b>[heat_equation](https://github.com/ivantozavr0/heat_equation) </b></ins> repository. </tt>
