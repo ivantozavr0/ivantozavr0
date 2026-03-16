@@ -4,7 +4,7 @@
 
 $\diamond$ <tt>My areas of interest, according to which I have posted several projects in this profile, are:</tt>
 
-<img align="center" src="https://avatars.mds.yandex.net/i?id=2e44f2ce3d3f889b90ce60c76dd99bf8_l-5173525-images-thumbs&n=13" weight="10" height="24"/> <tt>Scientific programming</tt>
+<img align="center" src="https://avatars.mds.yandex.net/i?id=2e44f2ce3d3f889b90ce60c76dd99bf8_l-5173525-images-thumbs&n=13" weight="10" height="24"/> <tt>Data Engineering</tt>
 
 <img align="center" src="https://banner2.cleanpng.com/20190106/hof/kisspng-artificial-intelligence-system-humanoid-robot-web-fraud-detection-5c31ddd5d97985.3285739615467719258908.jpg" weight="50" height="25"/> <tt>Machine learning</tt>
 
@@ -12,7 +12,6 @@ $\diamond$ <tt>I use such languages of programming as:</tt>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 $\diamond$ <tt>At the moment, I use the following libraries for machine learning:</tt>
 
@@ -21,6 +20,7 @@ $\diamond$ <tt>At the moment, I use the following libraries for machine learning
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+  PyTorch
 
 $\diamond$ <tt>In this profile you can find:</tt>
 
