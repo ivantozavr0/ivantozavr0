@@ -4,9 +4,9 @@
 
 $\diamond$ <tt>My areas of interest, according to which I have posted several projects in this profile, are:</tt>
 
-<img align="center" src="https://avatars.mds.yandex.net/i?id=2e44f2ce3d3f889b90ce60c76dd99bf8_l-5173525-images-thumbs&n=13" weight="10" height="24"/> <tt>Data Engineering</tt>
+<tt>Data Engineering</tt>
 
-<img align="center" src="https://banner2.cleanpng.com/20190106/hof/kisspng-artificial-intelligence-system-humanoid-robot-web-fraud-detection-5c31ddd5d97985.3285739615467719258908.jpg" weight="50" height="25"/> <tt>Machine learning</tt>
+<tt>Machine learning</tt>
 
 $\diamond$ <tt>I use such languages of programming as:</tt>
 
@@ -26,7 +26,7 @@ $\diamond$ <tt>In this profile you can find:</tt>
 
 <img align="center" src="https://www.svgrepo.com/show/366549/application-pet.svg" weight="10" height="30"/> <tt>My <b><i>pet projects</i></b>:</tt> 
 
-<tt>2. End-to-end ETL Pipeline for e-commerce Data Platform. This is <ins><b> [flight_postgre](https://github.com/ivantozavr0/flight_postgre) </b></ins> repository. </tt>
+<tt>1. End-to-end ETL Pipeline for e-commerce Data Platform. This is <ins><b> [olist_ETL](https://github.com/ivantozavr0/olist_ETL) </b></ins> repository. </tt>
 
 <tt>2. Collecting information about air routes in the Black Sea, displaying routes and statistics on the dashboard (storing data in the PostgreSQL database, the project is deployed in Docker). This is <ins><b> [flight_postgre](https://github.com/ivantozavr0/flight_postgre) </b></ins> repository. </tt>
 
